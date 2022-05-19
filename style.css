@@ -1,1 +1,20 @@
 
+body {
+  background-color: #4b5320;
+  color: #dddddd;
+  font-family: Arial, Helvetica, Grill Sans Ultra Bold;
+  margin: 10% 20%;
+  }
+
+h1{
+  color:#000000;
+  font-size: 64px; 
+  font-family: Arial, Times New Roman, sans-serif;  
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 4px solid #ffcb05;
+  border-bottom: 4px solid #ffcb05;
+  background-color: rgba(0,0,0,0.9)
